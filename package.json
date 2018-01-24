@@ -1,0 +1,25 @@
+{
+  "name": "monorepo-micro-react-redux",
+  "version": "0.0.1-beta-01",
+  "description": "A meta package that brings in Micro, React and tools for building as devDependencies",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hharnisc/monorepo-micro-react.git"
+  },
+  "keywords": [
+    "monorepo"
+  ],
+  "author": "hharnisc@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hharnisc/monorepo-micro-react/issues"
+  },
+  "homepage": "https://github.com/hharnisc/monorepo-micro-react#readme",
+  "devDependencies": {
+    "micro": "9.1.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-redux": "5.0.6",
+    "redux": "3.7.2"
+  }
+}
